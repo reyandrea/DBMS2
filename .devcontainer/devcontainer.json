@@ -1,0 +1,34 @@
+{
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "waitFor": "onCreateCommand",
+    "updateContentCommand": "",
+    "postCreateCommand": "pip install --user -r requirements.txt",
+    "postAttachCommand": {},
+    "hostRequirements": {
+        "cpus": 4
+    },
+    "containerEnv": {
+      "DATABASE_URL": "postgres://postgres:postgres@db/postgres"
+    },
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "ms-toolsai.jupyter",
+          "ms-python.python"
+        ]
+      }
+    },
+    "portsAttributes": {
+      "5432": {
+        "label": "postgres"
+      },
+      "8888": {
+        "label": "pgAdmin"
+      }
+    },
+    "forwardPorts": [
+      5432,
+      8888
+    ]
+  }
