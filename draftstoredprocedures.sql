@@ -10,38 +10,12 @@ CREATE TABLE IF NOT EXISTS circuit (
     url TEXT
 );
 
-CREATE TABLE IF NOT EXISTS constructor_result (
-    constructor_results_id INT PRIMARY KEY,
-    race_id INT REFERENCES race,
-    constructor_id INT REFERENCES constructor,
-    points INT 
-);
-
-CREATE TABLE IF NOT EXISTS constructor_standing (
-    constructor_standings_id INT PRIMARY KEY,
-    race_id INT REFERENCES race,
-    constructor_id INT REFERENCES constructor,
-    points INT,
-    position INT,
-    -- removing positiontext reference for normalisation purposes
-    wins INT
-);
-
 CREATE TABLE IF NOT EXISTS constructor (
     constructor_id INT PRIMARY KEY,
     -- removing constructor_ref for normalisation purposes
     name TEXT,
     nationality TEXT,
     url TEXT
-);
-
-CREATE TABLE IF NOT EXISTS driver_standing (
-    driver_standings_id INT PRIMARY KEY,
-    race_id INT REFERENCES race,
-    driver_id INT REFERENCES driver,
-    points INT,
-    position INT,
-    wins INT
 );
 
 CREATE TABLE IF NOT EXISTS driver (
@@ -61,7 +35,6 @@ CREATE TABLE IF NOT EXISTS lap_time (
     lap INT,
     position INT,
     time_in_miliseconds INT
-
 );
 
 CREATE TABLE IF NOT EXISTS pit_stop (
@@ -83,7 +56,7 @@ CREATE TABLE IF NOT EXISTS race (
     url TEXT
 );
 
-CREATE TABLE IF NOT EXISTS result_id (
+CREATE TABLE IF NOT EXISTS result (
     result_id INT PRIMARY KEY,
     race_id INT REFERENCES race,
     driver_id INT REFERENCES driver,
