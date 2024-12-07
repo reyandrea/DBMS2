@@ -740,7 +740,7 @@ driver_id,code,first_name,last_name,dob,nationality,url
 738,\N,Tony,Gaze,1920-02-03,Australian,http://en.wikipedia.org/wiki/Tony_Gaze
 739,\N,Robin,Montgomerie-Charrington,1915-06-23,British,http://en.wikipedia.org/wiki/Robin_Montgomerie-Charrington
 740,\N,Franco,Comotti,1906-07-24,Italian,http://en.wikipedia.org/wiki/Franco_Comotti
-741,\N,Philippe,�tancelin,28/12/1896,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+741,\N,Philippe,�tancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
 742,\N,Dennis,Poore,1916-08-19,British,http://en.wikipedia.org/wiki/Dennis_Poore
 743,\N,Eric,Thompson,1919-11-04,British,http://en.wikipedia.org/wiki/Eric_Thompson_(racing_driver)
 744,\N,Ken,Downing,1917-12-05,British,http://en.wikipedia.org/wiki/Ken_Downing
@@ -749,7 +749,7 @@ driver_id,code,first_name,last_name,dob,nationality,url
 747,\N,David,Murray,1909-12-28,British,http://en.wikipedia.org/wiki/David_Murray_(driver)
 748,\N,Eitel,Cantoni,1906-10-04,Uruguayan,http://en.wikipedia.org/wiki/Eitel_Cantoni
 749,\N,Bill,Aston,1900-03-29,British,http://en.wikipedia.org/wiki/Bill_Aston
-750,\N,Adolf,Brudes,15/10/1899,German,http://en.wikipedia.org/wiki/Adolf_Brudes
+750,\N,Adolf,Brudes,1899-10-15,German,http://en.wikipedia.org/wiki/Adolf_Brudes
 751,\N,Fritz,Riess,1922-07-11,German,http://en.wikipedia.org/wiki/Fritz_Riess
 752,\N,Helmut,Niedermayr,1915-11-29,German,http://en.wikipedia.org/wiki/Helmut_Niedermayr
 753,\N,Hans,Klenk,1919-10-28,German,http://en.wikipedia.org/wiki/Hans_Klenk
@@ -790,7 +790,7 @@ driver_id,code,first_name,last_name,dob,nationality,url
 788,\N,Joe,Fry,1915-10-26,British,http://en.wikipedia.org/wiki/Joe_Fry
 789,\N,Eug�ne ,Martin,1915-03-24,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Martin
 790,\N,Leslie,Johnson,1912-03-22,British,http://en.wikipedia.org/wiki/Leslie_Johnson_(racing_driver)
-791,\N,Clemente,Biondetti,18/08/1898,Italian,http://en.wikipedia.org/wiki/Clemente_Biondetti
+791,\N,Clemente,Biondetti,1898-08-18,Italian,http://en.wikipedia.org/wiki/Clemente_Biondetti
 792,\N,Alfredo,Pi�n,1912-10-21,Argentine,http://en.wikipedia.org/wiki/Alfredo_Pi%C3%A0n
 793,\N,Raymond,Sommer,1906-08-31,French,http://en.wikipedia.org/wiki/Raymond_Sommer
 794,\N,Joie,Chitwood,1912-04-14,American,http://en.wikipedia.org/wiki/Joie_Chitwood
