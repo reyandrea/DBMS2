@@ -1,4 +1,4 @@
-result_id,race_id,race_id,constructor_id,position,points,laps,time_in_miliseconds,fastestLap,rank,fastest_lap_time,fastest_lap_speed
+result_id,race_id,driver_id,constructor_id,position,points,laps,time_in_miliseconds,fastestLap,rank,fastest_lap_time,fastest_lap_speed
 1,18,1,1,1,10,58,5690616,39,2,01:27.5,218.3
 2,18,2,2,2,8,58,5696094,41,3,01:27.7,217.586
 3,18,3,3,3,6,58,5698779,41,5,01:28.1,216.719
