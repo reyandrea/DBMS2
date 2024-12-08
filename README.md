@@ -15,7 +15,7 @@ F1 database
 1. List race count of all drivers in order (done, some codes are missing in Driver)
 2. List the circuits in the USA (done)
 3. Which constructors have not won before?
-4. What is the fastest lap time for the Singapore Grand Prix
+4. What is the fastest lap time for the Singapore Grand Prix (done, rephrase?)
 -5. List all drivers under McClaren- (find alternative)
 6. Time and place of top 3 fastest pit stops
 7. Which driver has the most wins? (done)
