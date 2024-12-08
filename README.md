@@ -16,7 +16,7 @@ F1 database
 2. List the circuits in the USA
 3. Which constructors have not won before?
 4. What is the fastest lap time for the Singapore Grand Prix
-5. List all drivers under McClaren
+-5. List all drivers under McClaren-
 6. Time and place of top 3 fastest pit stops
 7. Which driver has the most wins?
 8. Which races have the tightest outcome?
