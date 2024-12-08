@@ -12,7 +12,7 @@ Students: LARIOZA Andrea, SIA Zhong Qing
 F1 database
 
 ## Queries 
-1. List race count of all drivers in order
+1. List race count of all drivers in order (done, some codes are missing in Driver)
 2. List the circuits in the USA (done)
 3. Which constructors have not won before?
 4. What is the fastest lap time for the Singapore Grand Prix
